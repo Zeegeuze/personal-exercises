@@ -13,7 +13,10 @@ I used the following programs: notebook, Python, Matplotlib, Seaborn and Folium.
 I scraped, saved as and uploaded CSV, created maps, heatmaps and plots, added non-existing data to a geoframe,
 rescaled features, cleaned data and finished with putting the main elements in slides.
 
-# Preparation presentation bootcamp project
+### Link
+[Notebook: Job hunt](https://github.com/Zeegeuze/personal-exercises/blob/main/.ipynb_checkpoints/job_preparation-checkpoint.ipynb)
+
+## Preparation presentation bootcamp project
 ### Intro
 I'll need to present a project in my bootcamp*, which needs to be presented to the teacher before. This will be the both the preparation for the teacher as well as the preparation for the presentation.
 
