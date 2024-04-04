@@ -20,7 +20,7 @@ rescaled features, cleaned data and finished with putting the main elements in s
 ### Intro
 I'll need to present a project in my bootcamp*, which needs to be presented to the teacher before. This will be the both the preparation for the teacher as well as the preparation for the presentation.
 
-*I'm following a bootcamp 'Data Science and AI' at Le Wagon in Brussels from January 15th to March 15th.
+*I followed a bootcamp 'Data Science and AI' at Le Wagon in Brussels from January 15th to March 15th.
 
 ### What I did
 This was a Google Colab project where I downloaded and displayed a video from YouTube
@@ -29,3 +29,30 @@ I had a look at the data and distribution and made conclusions regarding the pro
 
 ### Link
 [Notebook: Preparation Presentation Bootcamp Project](https://github.com/Zeegeuze/personal-exercises/blob/main/Preparation_presentation_bootcamp_project.ipynb)
+
+## Final project bootcamp
+### Intro
+This is the final project we did while following our bootcamp "Data Science & AI" at Le Wagon. We created an app to predict crop diseases. This app also has a [frontend](https://github.com/MahautHDL/save_the_crops_front). The frontend itself is not up-and-running anymore.
+
+### What we did
+Data Analysis
+Clean the data
+Data Preprocessing
+Create a model
+Save the model in Tensorboard
+Visualise the results of the model
+Evaluate the model
+Predict with the model
+Put the model online and connect it to the frontend
+Create a frontend [link](https://github.com/MahautHDL/save_the_crops_front)
+
+### What we used
+Matplotlib
+Numpy
+Pandas
+Scikit-Learn
+Tensorflow
+Tensorboard
+MLflow
+FastAPI
+Uvicorn
