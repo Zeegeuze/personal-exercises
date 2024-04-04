@@ -35,24 +35,16 @@ I had a look at the data and distribution and made conclusions regarding the pro
 This is the final project we did while following our bootcamp "Data Science & AI" at Le Wagon. We created an app to predict crop diseases. This app also has a [frontend](https://github.com/MahautHDL/save_the_crops_front). The frontend itself is not up-and-running anymore.
 
 ### What we did
-Data Analysis
-Clean the data
-Data Preprocessing
-Create a model
-Save the model in Tensorboard
-Visualise the results of the model
-Evaluate the model
-Predict with the model
-Put the model online and connect it to the frontend
-Create a frontend [link](https://github.com/MahautHDL/save_the_crops_front)
+* Data Analysis
+* Clean the data
+* Data Preprocessing
+* Create a model
+* Save the model in Tensorboard
+* Visualise the results of the model
+* Evaluate the model
+* Predict with the model
+* Put the model online and connect it to the frontend
+* Create a frontend [link](https://github.com/MahautHDL/save_the_crops_front)
 
 ### What we used
-Matplotlib
-Numpy
-Pandas
-Scikit-Learn
-Tensorflow
-Tensorboard
-MLflow
-FastAPI
-Uvicorn
+Matplotlib, Numpy, Pandas, Scikit-Learn, Tensorflow, Tensorboard, MLflow, FastAPI, Uvicorn
