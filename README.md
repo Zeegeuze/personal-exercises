@@ -48,3 +48,6 @@ This is the final project we did while following our bootcamp "Data Science & AI
 
 ### What we used
 Matplotlib, Numpy, Pandas, Scikit-Learn, Tensorflow, Tensorboard, MLflow, FastAPI, Uvicorn
+
+### Link
+[Code: Save the Crops](https://github.com/Zeegeuze/save_the_crops)
