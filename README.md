@@ -50,5 +50,5 @@ This is the final project we did while following our bootcamp "Data Science & AI
 Matplotlib, Numpy, Pandas, Scikit-Learn, Tensorflow, Tensorboard, MLflow, FastAPI, Uvicorn
 
 ### Link
-[Code: Save the Crops](https://github.com/Zeegeuze/save_the_crops)
-[Presentation: Save the Crops](https://www.youtube.com/watch?v=KWvrcZ72Myw)
+* [Code: Save the Crops](https://github.com/Zeegeuze/save_the_crops)
+* [Presentation: Save the Crops](https://www.youtube.com/watch?v=KWvrcZ72Myw)
