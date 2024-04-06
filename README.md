@@ -51,3 +51,4 @@ Matplotlib, Numpy, Pandas, Scikit-Learn, Tensorflow, Tensorboard, MLflow, FastAP
 
 ### Link
 [Code: Save the Crops](https://github.com/Zeegeuze/save_the_crops)
+[Presentation: Save the Crops](https://www.youtube.com/watch?v=KWvrcZ72Myw)
